@@ -4,7 +4,7 @@
 <h2>vowel</h2>
 <img src="nam-cexam/output/vowel.png">
 <h2>leap</h2>
-<img src="nam-cexam/output/leap.png">
+<img src="nam-cexam/output/leapyear.png">
 <h2>swap</h2>
 <img src="nam-cexam/output/swap.png">
 <h2>pattern</h2>
